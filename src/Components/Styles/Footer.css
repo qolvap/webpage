@@ -1,0 +1,53 @@
+foot{
+        width: 100%;
+        position: absolute;
+        top: 8px;
+        right: 16px;
+        
+}
+
+.contact-row{
+    display: flex;
+    align-items: center;
+    height: 4rem;
+    width: 100%;
+    justify-content: space-between;
+    overflow: hidden;  
+    gap: 1rem;
+    color: #A7BBC7;
+}
+
+.contact-text-column{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 4rem;
+}
+
+.contact--text--header{
+    font-size: 1.5rem;
+    color: #DA7F8F;
+}
+
+.contact--text{
+    font-size: 1.2rem;
+}
+
+.email--paragraph{
+    font-size: 1.5rem;
+    color: black;
+}
+
+#linkedin-icon{
+    font-size: 55px;
+}
+
+#linkedin-icon:hover{
+    color: #A7BBC7;
+}
+
+.email--paragraph:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
