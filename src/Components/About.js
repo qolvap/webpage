@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaGithub } from 'react-icons/fa';
 import Html from "./Pictures/html.svg";
 import Css from "./Pictures/css.svg";
 import JavaScript from "./Pictures/javascript.svg";
