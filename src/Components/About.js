@@ -14,13 +14,6 @@ import "./Styles/About.css";
 function About() { 
     return (
         <section>
-          <div className="about--section">
-            <div className="about--box">
-              
-                
-     
-            </div>
-          </div>
           <div className="about--second--two">
             <div className="about--box--two">
               <h3>I'm a passionate and dedicated candidate for the position of the junior front-end developer</h3>
