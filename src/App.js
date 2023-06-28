@@ -18,7 +18,6 @@ function App() {
         <div className="content--app">
           <Routes>
             <Route path="/" element={<About />} exact />
-            <Route path="/About" element={<About />} exact />
             <Route path="/Projects" element={<Projects />} exact />
             <Route path="/Footer" element={<Footer />} exact />
           </Routes>

@@ -10,7 +10,7 @@ export default function Navbar() {
       <p>Front-end Developer</p>
       
       <li>
-          <Link to="/About" className="nav--sect">
+          <Link to="/" className="nav--sect">
             About
           </Link>
       </li>  
